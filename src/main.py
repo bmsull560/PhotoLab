@@ -1,5 +1,6 @@
 ﻿from turtle import width
-import PyQt6
+# Remove unused import statement
+# import PyQt6
 from PyQt6 import QtWidgets, QtCore, QtGui
 from PyQt6.QtCore import Qt
 from PyQt6.QtWidgets import (
